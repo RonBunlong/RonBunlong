@@ -72,31 +72,33 @@ status: ACTIVE
 <tr>
 <td width="50%">
 
-### ⚡ Peace7 Commerce
+### ⚡ Peace7
 
 ```bash
+STACK:
 ASP.NET CORE
 SQL SERVER
-JWT AUTH
 REST API
+JWT AUTH
 ```
 
-Enterprise-grade e-commerce backend system with scalable architecture.
+Enterprise-grade e-commerce backend system built for scalable business operations.
 
 </td>
 
 <td width="50%">
 
-### 📱 Firebase Nexus
+### 📱 Kubera eTicket ICC
 
 ```bash
+STACK:
 FLUTTER
 FIREBASE
-FCM
 REALTIME
+MOBILE APP
 ```
 
-Cross-platform notification and realtime communication system.
+Digital ticket management platform with realtime event handling.
 
 </td>
 </tr>
@@ -104,31 +106,67 @@ Cross-platform notification and realtime communication system.
 <tr>
 <td width="50%">
 
-### 🔄 SAP Sync Engine
+### 🎓 Learn-Flutter
 
 ```bash
-C#
-WORKER SERVICE
-SQL
-INTEGRATION
+STACK:
+FLUTTER
+DART
+UI/UX
+STATE MANAGEMENT
 ```
 
-Automated synchronization engine for enterprise systems.
+Flutter learning and experimentation repository for modern mobile development.
 
 </td>
 
 <td width="50%">
 
-### 🌌 Cyber Dashboard
+### 🧪 Testing-Exercise
 
 ```bash
-HTML/CSS
-JAVASCRIPT
-UI/UX
-ANIMATION
+STACK:
+C#
+UNIT TEST
+API TESTING
+DEBUGGING
 ```
 
-Modern cyberpunk admin dashboard with futuristic interface.
+Testing and debugging exercises focused on software quality assurance.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌐 my-portfolio
+
+```bash
+STACK:
+HTML
+CSS
+JAVASCRIPT
+RESPONSIVE UI
+```
+
+Personal cyberpunk-inspired portfolio website showcasing projects and skills.
+
+</td>
+
+<td width="50%">
+
+### ⚡ RonBunlong
+
+```bash
+STACK:
+FULL STACK
+EXPERIMENTAL
+MODERN UI
+OPEN SOURCE
+```
+
+Personal development repository for experimenting with new technologies and ideas.
 
 </td>
 </tr>
