@@ -58,7 +58,11 @@ status: ACTIVE
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,cs,dotnet,firebase,html,css,js,mysql,postgres,docker,git,github,vscode,visualstudio,androidstudio&perline=8"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,cs,dotnet,firebase,html,css,js,azure,docker,git,github,vscode,visualstudio,swift,androidstudio&perline=8"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/SQL_SERVER-00F5FF?style=for-the-badge&logo=microsoftsqlserver&logoColor=black"/>
 
 </div>
 
